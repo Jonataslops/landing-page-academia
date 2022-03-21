@@ -1,20 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Rubik:wght@300&display=swap');
 /*zerar o CSS*/
-@media screean and (max-width: 768px){
-    section, aside {
-        width: 100%;
-        padding:0;
-    }
-}
 
-@media screean and (max-width: 600px){
-    nav li{
-    float: none;
-    text-align:center;
-     width: 100%;
-    }
-
-}
 *{
     margin: 0;
     padding: 0;
@@ -154,3 +140,4 @@ header {
     .btns button:hover::before{
         width: 100%;
     }
+
